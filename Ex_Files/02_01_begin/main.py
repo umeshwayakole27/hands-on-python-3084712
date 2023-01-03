@@ -1,4 +1,4 @@
-RUN_INDENTED = False
+RUN_INDENTED = True
 
 message = "running unindented"
 
